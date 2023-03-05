@@ -1,0 +1,3 @@
+/home/ubuntu/ics/LAB_S_Attachment/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/ics/LAB_S_Attachment/CMakeFiles/edit_cache.dir
+/home/ubuntu/ics/LAB_S_Attachment/CMakeFiles/lc3simulator.dir
